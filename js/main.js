@@ -24,4 +24,4 @@ navLinks.forEach((link)=>{
     link.addEventListener("click",()=>{
         menuMobile.classList.remove("active");
     })
-})
+});
